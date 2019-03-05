@@ -17,4 +17,4 @@ R06723020 財金碩二 楊安祺
 - liberty_times_copy_2.pkl : data got by running liberty_times_crawler-Copy2
 
 Note: Please find the same updates in "liberty_times_crawler-Copy2" with histories in the link below   
-https://github.com/yac7447/Political-News-Analysis
+https://github.com/yac7447/Political-News-Analysis/tree/master/crawler
