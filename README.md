@@ -8,8 +8,8 @@
 
 ### Homework
 
-#### Individual  
-* [IHW00](./107-2-Fintech-Course/Individual Homework/IHW00)
+#### [Individual](./Individual Homework)  
+* IHW00
 - IHW01  
 * IHW02  
 - IHW03
