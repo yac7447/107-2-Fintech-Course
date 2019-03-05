@@ -8,7 +8,7 @@
 
 ### Homework
 
-#### [Individual](./Individual Homework)  
+#### [Individual](./Individual-Homework)  
 * IHW00
 - IHW01  
 * IHW02  
