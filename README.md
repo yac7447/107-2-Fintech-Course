@@ -8,8 +8,8 @@
 
 ### Homework
 
-#### Individual  
-* IHW00 
+#### Individual
+* [IHW00](https://github.com/yac7447/107-2-Fintech-Course/tree/master/Individual%20Homework/IHW00)
 - IHW01  
 * IHW02  
 - IHW03
