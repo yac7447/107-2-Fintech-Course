@@ -2,7 +2,7 @@
 
 R06723020 財金碩二 楊安祺
 
-## Home work 01
+## Homework 01
 
 ### Description
 
