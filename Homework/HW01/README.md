@@ -11,7 +11,7 @@ R06723020 財金碩二 楊安祺
 1. read excel files for the list of ETFs, get symbol, ETF name and asset class    
 2. use symbols to crawl etfdb.com and get info of issuer and link of fund homepage    
 3. combine dataframe and write to excel   
-4. crawl historical NAV data from fund home page -> partially finished:**"ProShares"**、***AGFiQ Asset Management**、**Barclays Capital**、**IndexIQ**
+4. crawl historical NAV data from fund home page -> partially finished:**"ProShares"**、**AGFiQ Asset Management**、**Barclays Capital**、**IndexIQ**
 
 ### Problems to follow up    
 
